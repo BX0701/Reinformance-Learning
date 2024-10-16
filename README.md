@@ -6,6 +6,7 @@ Lab01
 - Lab 1.3
 - Lab 1.4
 - Lab 1.5: Project 3 - Reinforcement Learning - CSE511A
+  
   This project helps much more in the learning process of value iteration and Q-learning. Click on this link to read the guidelines.
 
   https://classes.engineering.wustl.edu/cse511/p3/
