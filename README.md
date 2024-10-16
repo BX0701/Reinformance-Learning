@@ -1,4 +1,4 @@
-# Reinformance-Learning
+# Reinforcement-Learning
 This project uses reinforcement learning, value iteration and Q-learning to teach a simulated robot controller (Crawler) and Pacman in lab01. Lab02 further explores Temporal Difference (TD) learning using the Gym library.
 Lab01
 - Lab 1.1: Create a multi-armed bandit environment simulation, using epsilon-greedy for action selection.
