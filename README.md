@@ -9,6 +9,5 @@ Lab01
   This project helps much more in the learning process of value iteration and Q-learning. Click on this link to read the guidelines.
 
   https://classes.engineering.wustl.edu/cse511/p3/
-  ![image](https://github.com/user-attachments/assets/9a13c150-0247-4189-a114-6ac95a70a0d0)
   
 Lab02
